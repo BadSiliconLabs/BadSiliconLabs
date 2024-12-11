@@ -21,7 +21,7 @@ We believe in the power of collaboration! Whether you’re a developer, gamer, o
 
 - **Fork and Contribute**: Check out our repos, make improvements, and submit pull requests.  
 - **Open Issues**: Found a bug or have a suggestion? Open an issue in the relevant repo.  
-- **Join the Conversation**: Share your thoughts and projects with us on [Youtube](https://www.youtube.com/@BadSiliconLabs) and [Itch.io](https://bad-silicon-labs.itch.io/).  
+- **Join the Conversation**: Share your thoughts and projects with us on [Youtube](https://www.youtube.com/@BadSiliconLabs), [Reddit](https://www.reddit.com/user/Bad_Silicon_Labs/) and [Itch.io](https://bad-silicon-labs.itch.io/).  
 
 ---
 
